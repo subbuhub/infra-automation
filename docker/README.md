@@ -19,7 +19,7 @@ docker info
 ```
 
 
-#Build docker image:
+# Build docker image:
 
 Note: Run all the below given commands from "app" folder
 

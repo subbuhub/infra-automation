@@ -78,7 +78,7 @@ Get ALB endpoint
 ```shell script
 terraform output web_app_elb_dns_name
 ```
-Open the output url in web browser, for "Hello World" output of web application.
+Open the output url in web browser, Check "Hello World" output of web application.
 
 
 # To destroy infrastructure:
